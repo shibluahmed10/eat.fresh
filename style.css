@@ -1,0 +1,91 @@
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+width: 100%;
+}
+.skip{
+    color:  orange;
+}
+.order{
+    background-color: tomato;
+    text-decoration: none;
+    
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+    
+    .size{
+        font-size: 75px;
+    }
+    .half-width p{
+        width: 420px;
+        margin-bottom: 50px;
+        
+    }
+body{
+    padding-left: 30px;
+}
+
+.h1size{
+    font-size: 40px;
+}
+
+
+.half-width-extra-add{
+    width: 50%;
+    padding-top: 300px;
+    padding-left: 100px;
+
+
+}
+.half-width-extra-add p{
+    margin-bottom: 50px;
+    width: 400px;
+}
+.half-width-EXTRA{
+    width: 50%;
+}
+.background-color{
+   background-color: rgba(255, 192, 203, 0.911);
+}
+    .oli h1{
+        text-align: center;
+        margin-top: 50px;
+        font-size: 40px;
+
+    }
+    .olip{
+        font-size: 20px;
+        text-align: center;
+        
+    }
+    
+.tarek{
+    width: 100%;
+    padding: 50px;
+   border-radius: 20px;
+   box-shadow: 10px 10px 40px gray;
+   margin-left: 15px;
+   margin-right: 15px;
+   align-items: center;
+   
+
+}
+.tarek img{
+    width: 550px;
+
+}
+footer{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+span{
+    color: orange;
+}
